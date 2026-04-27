@@ -1,0 +1,16 @@
+{
+  "name": "furikomi-matching-system",
+  "version": "1.0.0",
+  "description": "払込取扱票 突合システム - Node.js モック",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
